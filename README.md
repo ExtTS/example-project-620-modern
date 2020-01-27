@@ -1,1 +1,3 @@
 # Example TypeScript Project - Ext.JS v6.2.0 - Modern Toolkit
+
+THIS EXAMPLE IS NOT WORKING YET. PLEASE USE CLASSIC TOOLKIT INSTEAD.
